@@ -1,5 +1,5 @@
 # gui_mtcnn_face_detection
-Gui aplication for face detection from webcam using pre-trained MTCNN based on repo (https://github.com/ResByte/mtcnn-face-detect).
+GUI aplication for face detection from webcam using pre-trained MTCNN based on repo (https://github.com/ResByte/mtcnn-face-detect).
 
 ## Dependencies
 * tensorflow
